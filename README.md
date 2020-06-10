@@ -13,6 +13,7 @@ The following files are in this repository:
 recorded over 16 years. 
 
 If you follow this work, please cite 
+
 Dutta, A., Batabyal, T., Basu, M., & Acton, S. T. (2020). An Efficient Convolutional Neural Network for Coronary Heart Disease Prediction. Expert Systems with Applications, 113408.
 
 Bibfile:
